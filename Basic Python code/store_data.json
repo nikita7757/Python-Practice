@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Aarav",
+    "age": 24,
+    "rating": 5
+  },
+  {
+    "name": "Priya",
+    "age": "",
+    "rating": "four"
+  },
+  {
+    "name": "Rohan",
+    "age": 29,
+    "rating": "five"
+  },
+  {
+    "name": "Priya",
+    "age": "",
+    "rating": "four"
+  },
+  {
+    "name": "Vikram",
+    "age": "31",
+    "rating": 2
+  }
+]
